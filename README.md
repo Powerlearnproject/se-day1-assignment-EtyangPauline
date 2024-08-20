@@ -1,31 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15557160&assignment_repo_type=AssignmentRepo)
-git add .
-git commit -m "Fix issues with tests and workflow"
-git push origin main
-name: Assignment Check
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  check:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-       
-
 # SE_Day1
 **Software Engineering Day1 Assignment**
-##Part 1: Introduction to Software Engineering
+## Part 1: Introduction to Software Engineering
 **Explain what software engineering is and discuss its importance in the technology industry.**
 Software engineering is the systematic application of engineering approaches to the development of software. It involves the processes of designing, developing, testing, and maintaining software systems. Its importance in the technology industry includes:
 -**Efficiency:** Streamlines the development process, improving productivity.
@@ -82,9 +58,3 @@ Prompt engineering involves crafting prompts to elicit the best possible respons
 **Improved Prompt:** "Explain the impact of artificial intelligence on modern technology."
 **Explanation:**
 The improved prompt is more effective because it is specific and targeted, focusing on a particular aspect of technology. This allows the AI to provide a more detailed and relevant response, rather than a broad and potentially unfocused answer.
-
-
-
-
-
-
