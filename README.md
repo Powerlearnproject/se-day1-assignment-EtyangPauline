@@ -4,22 +4,22 @@
 ## Part 1: Introduction to Software Engineering
 **Explain what software engineering is and discuss its importance in the technology industry.**
 Software engineering is the systematic application of engineering approaches to the development of software. It involves the processes of designing, developing, testing, and maintaining software systems. Its importance in the technology industry includes:
--**Efficiency:** Streamlines the development process, improving productivity.
--**Quality:** Enhances the reliability and performance of software through structured methodologies.
--**Cost-Effectiveness:** Reduces costs through efficient resource management and problem prevention.
--**Scalability:** Facilitates the creation of scalable systems that can grow with the user base or requirements.
+**Efficiency:** Streamlines the development process, improving productivity.
+**Quality:** Enhances the reliability and performance of software through structured methodologies.
+**Cost-Effectiveness:** Reduces costs through efficient resource management and problem prevention.
+**Scalability:** Facilitates the creation of scalable systems that can grow with the user base or requirements.
 **Identify and describe at least three key milestones in the evolution of software engineering.**
--**950s-1960s:** The Emergence of Programming: Early programming languages and techniques were developed, marking the start of software engineering.
--**1970s:** The Waterfall Model: The introduction of the Waterfall model by Dr. Winston W. Royce provided a structured approach to software development.
--**1990s:** The Agile Manifesto: The Agile movement emerged, emphasizing iterative development, collaboration, and customer feedback.
+**950s-1960s:** The Emergence of Programming: Early programming languages and techniques were developed, marking the start of software engineering.
+**1970s:** The Waterfall Model: The introduction of the Waterfall model by Dr. Winston W. Royce provided a structured approach to software development.
+**1990s:** The Agile Manifesto: The Agile movement emerged, emphasizing iterative development, collaboration, and customer feedback.
 **List and briefly explain the phases of the Software Development Life Cycle.**
 Phases of the Software Development Life Cycle (SDLC):
--**Requirements Gathering:** Collecting and defining what the software needs to do.
--**Design:** Creating architecture and design plans for the software.
--**Implementation (Coding):** Writing the actual code for the software.
--**Testing:** Verifying that the software works as intended and finding defects.
--**Deployment:** Releasing the software to users.
--**Maintenance:** Providing ongoing support and updates for the software.
+**Requirements Gathering:** Collecting and defining what the software needs to do.
+**Design:** Creating architecture and design plans for the software.
+**Implementation (Coding):** Writing the actual code for the software.
+**Testing:** Verifying that the software works as intended and finding defects.
+**Deployment:** Releasing the software to users.
+**Maintenance:** Providing ongoing support and updates for the software.
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
 **Waterfall Methodology:**
 Sequential Phases: Follows a linear and sequential approach.
@@ -56,5 +56,4 @@ Prompt engineering involves crafting prompts to elicit the best possible respons
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 **Vague Prompt:** "Tell me about technology."
 **Improved Prompt:** "Explain the impact of artificial intelligence on modern technology."
-**Explanation:**
-The improved prompt is more effective because it is specific and targeted, focusing on a particular aspect of technology. This allows the AI to provide a more detailed and relevant response, rather than a broad and potentially unfocused answer.
+**Explanation:** The improved prompt is more effective because it is specific and targeted, focusing on a particular aspect of technology. This allows the AI to provide a more detailed and relevant response, rather than a broad and potentially unfocused answer.
